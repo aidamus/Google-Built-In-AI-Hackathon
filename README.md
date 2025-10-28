@@ -1,6 +1,6 @@
 # SmartSight News Analyzer
 
-![SmartSight Logo](SmartSight/SmartSight/icons/icon128.png)
+![SmartSight Logo](SmartSight/icons/icon128.png)
 
 A modern Chrome Extension for hackathons that analyzes news articles using on-device AI (Gemini Nano). Features emotion pulse, bias detection, deep analysis, quizzes, and chat—all powered by Chrome's built-in AI.
 
