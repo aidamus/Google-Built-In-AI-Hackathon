@@ -23,7 +23,6 @@ A modern Chrome Extension for hackathons that analyzes news articles using on-de
   _Open source under the MIT license._
 - **APIs Used:**
   - Chrome Prompt API
-  - Chrome Summarizer API
 ---
 
 ## ⚡ Setup Instructions
@@ -34,10 +33,6 @@ Open Chrome and enter each URL below in the address bar. Set the flag as describ
 
 - **Enable Prompt API:**  
   `chrome://flags/#prompt-api-for-gemini-nano`  
-  _Set to: Enabled_
-
-- **Enable Summarizer API**  
-  `chrome://flags/#summarization-api-for-gemini-nano`  
   _Set to: Enabled_
 
 - **Enable On-Device Model:**  
